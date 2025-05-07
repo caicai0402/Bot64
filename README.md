@@ -1,16 +1,4 @@
-# bot64
-
-## Members
-
-- B07902108 翁祖毅
-- B07902079 張庭禎
-- B07902002 連崇安
-- B07902128 蘇聖祐
-- B08208032 胡材溢
-- B10902069 楊智翰
-- B07902032 徐振棠
-- B07902036 李國弘
-- B08902111 孫梓翔
+# Bot64
 
 ## Introduction
 
@@ -61,3 +49,15 @@ python3 main.py
         2. `Suspicious`: 0 < final score < 0.5
         3. `Malicious`: final score >= 0.5
 - Complexity analysis: Set the length of message `L`, the Number of keys in name.txt `N`, the Number of keys in link.txt `M`, the temporal complexity would be `L*log(Max(M, N))`, and the spacial complexity would be `Max(L, N, M)`
+
+// ## Members
+
+// - B08208032 胡材溢
+// - B07902108 翁祖毅
+// - B07902079 張庭禎
+// - B07902002 連崇安
+// - B07902128 蘇聖祐
+// - B10902069 楊智翰
+// - B07902032 徐振棠
+// - B07902036 李國弘
+// - B08902111 孫梓翔
